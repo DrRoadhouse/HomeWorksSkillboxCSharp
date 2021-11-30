@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\ConsoleApp1MustDelete\bin\Debug\ConsoleApp1MustDelete.exe.config
+D:\VisualStudioProjects\ConsoleApp1MustDelete\bin\Debug\ConsoleApp1MustDelete.exe
+D:\VisualStudioProjects\ConsoleApp1MustDelete\bin\Debug\ConsoleApp1MustDelete.pdb
+D:\VisualStudioProjects\ConsoleApp1MustDelete\obj\Debug\ConsoleApp1MustDelete.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\ConsoleApp1MustDelete\obj\Debug\ConsoleApp1MustDelete.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\ConsoleApp1MustDelete\obj\Debug\ConsoleApp1MustDelete.exe
+D:\VisualStudioProjects\ConsoleApp1MustDelete\obj\Debug\ConsoleApp1MustDelete.pdb
