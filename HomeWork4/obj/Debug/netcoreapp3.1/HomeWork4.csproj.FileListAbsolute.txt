@@ -1,0 +1,14 @@
+D:\VisualStudioProjects\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.exe
+D:\VisualStudioProjects\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.deps.json
+D:\VisualStudioProjects\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.runtimeconfig.json
+D:\VisualStudioProjects\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.runtimeconfig.dev.json
+D:\VisualStudioProjects\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.dll
+D:\VisualStudioProjects\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.pdb
+D:\VisualStudioProjects\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfo.cs
+D:\VisualStudioProjects\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.dll
+D:\VisualStudioProjects\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.pdb
+D:\VisualStudioProjects\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.genruntimeconfig.cache
